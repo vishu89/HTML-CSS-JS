@@ -1,0 +1,61 @@
+body{
+	background-color: #800000;
+}
+
+
+#header-nav {
+	background-color: #FFFF99;
+	border-radius :0;
+	border:0;
+}
+
+
+.navbar-brand h1{
+	color : blue;
+	font-family: Helventica;
+	font-weight: bold;
+  	margin-top: 0;
+  	font-size: 1.5em;
+}
+
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar{
+	border:2px solid #800000;
+}
+
+
+#nav-list {
+	background-color: #C0C0C0;
+	margin-top: 0;
+	margin-bottom: 0;
+	margin-left: 0;
+	margin-right: 0;
+}
+
+#nav-list a {
+	color : #800000;
+	text-align: center;
+	border: 1px solid black;
+}
+
+#nav-list a:hover{
+  background: #E7E7E7;
+}
+
+#main-content h1 {
+	font-family: helventica;
+	font-size: 1.5em;
+	font-weight:bold; 
+	color: #d3d3d3;
+}
+
+#main-content .row{
+	margin-right: 20px;
+	background-color: #ADD8E6;
+	margin-left: 20px;
+}
+
+#main-content .row h2{
+	font-size:1.5em;
+	font-weight: bold;
+}
