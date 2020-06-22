@@ -122,7 +122,7 @@ function buildAndShowHomeHTML (categories) {
       // of how to do that.
       // ....
 
-      insertHtml("main-context",homeHtmlToInsertIntoMainPage);
+      insertHtml("#main-content",homeHtmlToInsertIntoMainPage);
 
 
 
